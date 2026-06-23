@@ -36,10 +36,6 @@ These dynamic cards automatically update to showcase my overall activity and top
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasic11&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vasic11&show_icons=true&theme=dark" alt="Vasic11 GitHub Stats" />
-</p>
-
 
 ### 📫 Connect with Me
 
