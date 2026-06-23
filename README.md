@@ -44,6 +44,6 @@ These dynamic cards automatically update to showcase my overall activity and top
 
 ### 📫 Connect with Me
 
-*   📧 **Email:** your.email@gmail.com *(replace with your actual email)*
+*   📧 **Email:** mihajlovasic186@gmail.com 
 *   💼 **LinkedIn:** [in/mihajlo-vasic-raf](https://linkedin.com/in/mihajlo-vasic-raf)
 *   📍 **Location:** Pančevo, Serbia
