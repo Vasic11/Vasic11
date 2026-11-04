@@ -1,44 +1,37 @@
-# Hi there, I'm Mihajlo Vasic! 👋
+# Hi, I'm Mihajlo 👋
 
-I am a second-year Software Engineering student at the Faculty of Computer Science (RAF) in Belgrade. I am focused on backend programming, algorithm design, and building functional, scalable applications.
+Junior Software Developer and third-year Software Engineering student at the **Faculty of Computer Science (RAF)** in Belgrade.
+I build backend and full-stack applications, from Java desktop apps and socket servers to modern web apps with Next.js and TypeScript.
 
----
-
-### 🛠️ Technologies and Tools
-
-Backend development, scripting, and database management utilizing the following tech stack:
-
-🖳 **Languages:** Java, Python, C, TypeScript / JavaScript
-🗄️ **Databases:** SQL (MySQL / PostgreSQL)
-⚙️ **Other:** Streamlit, Git, Java Sockets, Next.js / Node.js
+- 💼 Currently working as a **Junior Developer**
+- 🌱 Currently learning **React, Node.js and TanStack**
+- 🎓 Python Developer course completed at **ITAcademy**
+- 📫 Reach me at **mihajlovasic186@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/mihajlo-vasic-raf)
 
 ---
 
-### 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-#### 📌 Primary Project (RAF - Software Design)
-*   **[Graffito](https://github.com/RAF-DSW-2025-26/dsw-projekat-2025-tim_mihajlovasic_nevenamiletic)** – **Main team project** built within GitHub Classroom for the *Software Design* course at the Faculty of Computer Science. This project focuses on applying advanced object-oriented programming (OOP) principles, architectural patterns, and clean code practices through collaborative team development using **Java**.
-
-#### 📂 Other Academic & Personal Projects
-*   **[Database Fundamentals Project](https://github.com/Vasic11/database-fundamentals-project)** – A desktop application featuring a Graphical User Interface (GUI) built with **JavaFX** and structured around the **MVC (Model-View-Controller)** architecture, designed for efficient database management and manipulation.
-*   **[Computer Networks Coursework](https://github.com/Vasic11/computer-networks-coursework)** – Practical assignments, lecture notes, and standalone projects focused on network protocols and client-server communication (including projects like **NumeroLogika**, a multiplayer game developed using Java sockets).
-*   **[C Programming Midterms Exam](https://github.com/Vasic11/c-programming-midterms-exam)** – A collection of complex problems and solutions for midterm and final exams in **C**, covering recursion, strings, single/double linked lists, and trees.
-*   **[Euro-Elite](https://github.com/Vasic11/euro-elite)** – A modern web application built with **Next.js** and **TypeScript** that integrates with the official EuroLeague API to fetch, display, and analyze real-time player statistics and team performance.
-*   **[QA Testing Project](https://github.com/Vasic11/QA-Testin)** – A quality assurance project centered on testing web functionalities for *gresnik.com* and performing site load testing utilizing **Apache JMeter** and **Python**.
+**Languages:** Java · Python · C · TypeScript · JavaScript · SQL
+**Web:** Next.js · React · Node.js · Tailwind CSS
+**Databases:** MySQL · PostgreSQL
+**Tools:** Git · JavaFX · Java Sockets · Streamlit · Apache JMeter
 
 ---
 
-### 📊 My GitHub Statistics
+## 🚀 Featured Projects
 
-These dynamic cards automatically update to showcase my overall activity and top programming languages:
+| Project | What it is | Tech |
+|---|---|---|
+| [**Euro-Elite**](https://github.com/Vasic11/euro-elite) | Web app that pulls live data from the EuroLeague API to show and analyze player and team statistics | Next.js, TypeScript, Tailwind |
+| [**Graffito**](https://github.com/RAF-DSW-2025-26/dsw-projekat-2025-tim_mihajlovasic_nevenamiletic) | Team project for the Software Design course, built around OOP principles, design patterns and clean architecture | Java |
+| [**Database Manager**](https://github.com/Vasic11/database-fundamentals-project) | Desktop GUI for managing and querying a relational database, structured with MVC | Java, JavaFX, SQL |
+| [**NumeroLogika & Networks**](https://github.com/Vasic11/computer-networks-coursework) | Client-server projects, including a multiplayer game built on Java sockets | Java, TCP/UDP |
+| [**QA Testing**](https://github.com/Vasic11/QA-Testin) | Functional testing of a live website and load testing with JMeter | Python, JMeter |
+| [**C Algorithms**](https://github.com/Vasic11/c-programming-midterms-exam) | Solved exam problems: recursion, strings, linked lists and trees | C |
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasic11&layout=compact&theme=dark" alt="Top Langs" />
-</p>
+---
 
+## 📊 GitHub Stats
 
-### 📫 Connect with Me
-
-*   📧 **Email:** mihajlovasic186@gmail.com 
-*   💼 **LinkedIn:** [in/mihajlo-vasic-raf](https://linkedin.com/in/mihajlo-vasic-raf)
-*   📍 **Location:** Pančevo, Serbia
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasic11&layout=compact&theme=dark&hide_border=true)
