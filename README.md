@@ -12,10 +12,12 @@ I build backend and full-stack applications, from Java desktop apps and socket s
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java · Python · C · TypeScript · JavaScript · SQL
-**Web:** Next.js · React · Node.js · Tailwind CSS
-**Databases:** MySQL · PostgreSQL
-**Tools:** Git · JavaFX · Java Sockets · Streamlit · Apache JMeter
+[![Tech stack](https://skillicons.dev/icons?i=java,python,c,ts,js,nextjs,react,nodejs,tailwind,mysql,postgres,git&perline=12)](https://skillicons.dev)
+
+- **Languages:** Java · Python · C · TypeScript · JavaScript · SQL
+- **Web:** Next.js · React · Node.js · Tailwind CSS
+- **Databases:** MySQL · PostgreSQL
+- **Tools:** Git · JavaFX · Java Sockets · Streamlit · Apache JMeter
 
 ---
 
@@ -29,9 +31,3 @@ I build backend and full-stack applications, from Java desktop apps and socket s
 | [**NumeroLogika & Networks**](https://github.com/Vasic11/computer-networks-coursework) | Client-server projects, including a multiplayer game built on Java sockets | Java, TCP/UDP |
 | [**QA Testing**](https://github.com/Vasic11/QA-Testin) | Functional testing of a live website and load testing with JMeter | Python, JMeter |
 | [**C Algorithms**](https://github.com/Vasic11/c-programming-midterms-exam) | Solved exam problems: recursion, strings, linked lists and trees | C |
-
----
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasic11&layout=compact&theme=dark&hide_border=true)
